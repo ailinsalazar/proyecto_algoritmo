@@ -13,7 +13,7 @@ ARCHIVO_EXCEL = "Inventario.xlsx"
 
 # Reemplaza con tus credenciales de Gmail o el servicio SMTP que utilices
 REMITENTE_EMAIL = "emilianoesquite19@gmail.com"
-REMITENTE_PASSWORD = "umcfrxcwrsdxfxpy"  # Contraseña de aplicación de Gmail
+REMITENTE_PASSWORD = " "  # Contraseña de aplicación de Gmail
 CORREO_COORDINADOR = "namjoon8002@gmail.com"  # Correo para enviar la copia de seguridad
 
 def inicializar_excel(nombre_archivo=ARCHIVO_EXCEL):
